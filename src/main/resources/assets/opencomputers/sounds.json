@@ -1,0 +1,13 @@
+{
+  "computer_running":    { "sounds": [{ "name": "opencomputers:computer_running",    "stream": true }] },
+  "disk_drive_activity": { "sounds": [{ "name": "opencomputers:disk_drive_activity" }] },
+  "disk_drive_insert":   { "sounds": [{ "name": "opencomputers:disk_drive_insert" }]   },
+  "disk_drive_eject":    { "sounds": [{ "name": "opencomputers:disk_drive_eject" }]    },
+  "robot_move":          { "sounds": [{ "name": "opencomputers:robot_move" }]          },
+  "robot_turn":          { "sounds": [{ "name": "opencomputers:robot_turn" }]          },
+  "robot_swing":         { "sounds": [{ "name": "opencomputers:robot_swing" }]         },
+  "keyboard_click":      { "sounds": [{ "name": "opencomputers:keyboard_click" }]      },
+  "charger_active":      { "sounds": [{ "name": "opencomputers:charger_active", "stream": true }] },
+  "assembler_active":    { "sounds": [{ "name": "opencomputers:assembler_active", "stream": true }] },
+  "printer_active":      { "sounds": [{ "name": "opencomputers:printer_active", "stream": true }] }
+}
